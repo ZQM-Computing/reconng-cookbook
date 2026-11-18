@@ -35,6 +35,8 @@ OSINT practitioners who run structured, module-based reconnaissance.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-workspace` | Workspaces, modules, and options |
